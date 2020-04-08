@@ -7,12 +7,24 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+This application provides the ability to create, edit, and delete help tickets. It is access controlled by three different user types: Client, Technician, and Administrator.
+The idea came from while I was working. I am able to log into a website to submit tickets for technology issues we may have with our servers. I felt that this kind of application would help me everyday at work for other coworkers to be able to submit tickets for help with their computers, software phones, etc. It would organize the tickets by importance. Also when I get done with the more emergent tickets, I could look at the tickets and work on one that I might have forgotten about if it wasn't there.  
+
+
+
 ### Features
 Include Features here
-### Technologies
-Include Technologies here
+*User Login: Users can create a new user or log in. New users can only be upgraded to Technician or Administrator by an Administrator. Each will have a profile page.
+*Create Ticket: Client Users and Technician Users can create help tickets.
+*User Access: Client Users and Technician Users can only see their own cases. Administrators can see all help tickets. 
+*
+## Technologies
+*Java
+*Spring Boot
+*MySQL
+*Hibernate
+*Thymeleaf templates
 ### What I'll Have to Learn
-Include what you will need to learn here
+I will need to learn how to have a users securely log in and have the application keep track of which views they user can have access to. 
 ### Project Tracker
-Link to your Trello board here
+[Trello Board](https://trello.com/b/5AzorhIX/liftoff)
