@@ -21,10 +21,15 @@ Include Features here
 *
 ## Technologies
 *Java
+
 *Spring Boot
+
 *MySQL
+
 *Hibernate
+
 *Thymeleaf templates
+
 ### What I'll Have to Learn
 I will need to learn how to have a users securely log in and have the application keep track of which views they user can have access to. 
 ### Project Tracker
