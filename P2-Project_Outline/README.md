@@ -15,10 +15,10 @@ The idea came from while I was working. I am able to log into a website to submi
 
 ### Features
 Include Features here
-*User Login: Users can create a new user or log in. New users can only be upgraded to Technician or Administrator by an Administrator. Each will have a profile page.
-*Create Ticket: Client Users and Technician Users can create help tickets.
-*User Access: Client Users and Technician Users can only see their own cases. Administrators can see all help tickets. 
-*
+* User Login: Users can create a new user or log in. New users can only be upgraded to Technician or Administrator by an Administrator. Each will have a profile page.
+* Create Ticket: Client Users and Technician Users can create help tickets.
+* User Access: Client Users and Technician Users can only see their own cases. Administrators can see all help tickets. 
+
 ## Technologies
 *Java
 
