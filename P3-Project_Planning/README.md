@@ -9,6 +9,14 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+* [Home Page](homepage.jpg)
+* [LogIn and Create User Page](user%20login-user%20create.jpg)
+* [Page After LogIn](pageAfterLogin.jpg)
+* [Create Ticket](createTicket.jpg)
+* [View Ticket](viewTicket.jpg)
+* [Edit Ticket](editTicket.jpg)
+* [Edit My Account and List Tickets](users-myAcct-edit&view%20tickets.jpg)
+* [Administrator - Assign Ticket](viewTicketAssign.jpg)
 
 ### Project Tracker
 
