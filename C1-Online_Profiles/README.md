@@ -13,4 +13,4 @@ For this assignment you will need to upload your resume and provide links to you
 [My LinkedIn Profile](www.linkedin.com/in/carol-connor)
 
 ### Resume
-[My Resume](/CarolConnorLaunchCodeResume.pdf)
+[My Resume](CarolConnorLaunchCodeResume.pdf)
