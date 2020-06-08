@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-* [View Presentation]()
+* [View Presentation](Project Presentation Template.pdf)
